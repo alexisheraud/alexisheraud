@@ -1,29 +1,47 @@
-<h1 align="center">Hi 👋, I'm Alexis Heraud</h1>
-<h3 align="center">A developer from France</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# 💥 Alexis Heraud
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexisheraud&label=Profile%20views&color=0e75b6&style=flat" alt="alexisheraud" /> </p>
-- 🔭 I’m currently working on **Epitech Piscine 2023**
+**Student (First Year at Epitech Nantes)**
 
-- 🌱 I’m currently learning **C**
-
-- 👯 I’m looking to collaborate on **any C programs**
-
-- 📫 How to reach me **alexisheraud020303@gmail.com**
+Hi there! I'm a French student currently studying at Epitech Nantes. I'm deeply involved in various programming projects and always eager to expand my knowledge in software development. My key areas of interest include software engineering, web development, cybersecurity, and DevOps. I'm passionate about learning new technologies and applying them to create new and impactful projects.
 
 
+<p align="center">
+  <a href="https://github.com/alexisheraud?tab=repositories&sort=stargazers">
+    <img alt="Total stars on GitHub" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/alexisheraud?color=55960c&style=for-the-badge&logo=star&labelColor=488207"/></a>
+  <a href="https://github.com/KyoriH?tab=followers">
+    <img alt="Follow me on GitHub" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/alexisheraud?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alexisheraud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexisheraud" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexisheraud&show_icons=true&locale=en&layout=compact" alt="alexisheraud" /></p>
+### 🛠️ Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexisheraud&show_icons=true&locale=en" alt="alexisheraud" /></p>
+<img align="left" alt="C" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+<img align="left" alt="C++" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="HTML" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="Node.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
+<img align="left" alt="Docker" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
+<img align="left" alt="MariaDB" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg"/>
+<img align="left" alt="Bash" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
+<img align="left" alt="Linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+<br />
 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexisheraud&" alt="alexisheraud" /></p>
+### 📊 Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alexisheraud&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisheraud&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📫 Contact Me
+
+You can reach out to me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexisheraud/)
+[![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord)](https://discord.com/users/NoXe7330)
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](mailto:alexisheraud.dev@gmail.com)
+
+Feel free to send me a message or follow me on these platforms!
