@@ -4,16 +4,22 @@
 
 Hi there! I'm a French student currently studying at Epitech Nantes. I'm deeply involved in various programming projects and always eager to expand my knowledge in software development. My key areas of interest include software engineering, web development, cybersecurity, and DevOps. I'm passionate about learning new technologies and applying them to create new and impactful projects.
 
-
 <p align="center">
   <a href="https://github.com/alexisheraud?tab=repositories&sort=stargazers">
-    <img alt="Total stars on GitHub" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/alexisheraud?color=55960c&style=for-the-badge&logo=star&labelColor=488207"/></a>
+    <img alt="Total stars on GitHub" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/alexisheraud?color=55960c&style=for-the-badge&logo=star&labelColor=488207"/>
+  </a>
   <a href="https://github.com/KyoriH?tab=followers">
-    <img alt="Follow me on GitHub" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/alexisheraud?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
+    <img alt="Follow me on GitHub" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/alexisheraud?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://profile-counter.glitch.me/alexisheraud/count.svg" />
+</p>
+<h2 align="center" style="font-family: 'Arial', sans-serif;">
+  👁️ VISITORS
+</h2>
+
 
 ### 🛠️ Skills
 
