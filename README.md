@@ -1,4 +1,4 @@
-<img src"github-header-image.png" alt="github-header-image.png" width="100%" />
+<img src="github-header-image.png" alt="GitHub Banner" width="100%" />
 
 
 <h2 align="left">Hello World!, I'm Alexis, a French student at Epitech Nantes 👋🏼:</h2>
