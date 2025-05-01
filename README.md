@@ -1,11 +1,11 @@
 <img src="github-header-image.png" alt="GitHub Banner" width="100%" />
 
 
-<h2 align="left">Hello World!, I'm Alexis, a French student at Epitech Nantes 👋🏼:</h2>
+<h2 align="left">More about Me:</h2>
 
 ###
 
-<p align="left">🎓 Epitech student passionate about coding, problem-solving, and tech innovation.<br>💻 Learning C/C++, Python, JS & always exploring new tools.<br>🚀 Open to projects, challenges & collaboration!</p>
+<p align="left">🎓 2nd-year student at Epitech | Passionate about tech, coding, and innovation<br>🤖 Exploring robotics, AI, and holographic technologies<br>🔧 Next goal: building a rotating hologram using Arduino<br>🚀 Always ready for new challenges and creative projects</p>
 
 ###
 
@@ -34,6 +34,22 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/alex_si64" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="71" height="50" alt="instagram logo"  />
+  </a>
+  <a href="alexisheraud.dev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="71" height="50" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/alexisheraud/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="71" height="50" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 
 <br clear="both">
 
